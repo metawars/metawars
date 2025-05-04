@@ -1,16 +1,13 @@
-## Hi there 👋
+<section>
+  <h2>MetaWars Whitepaper</h2>
+  <h3>Introduction</h3>
+  <p>MetaWars (MWR) is a futuristic-themed cryptocurrency token...</p>
 
-<!--
-**metawars/metawars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h3>Tokenomics</h3>
+  <p>The total supply of MWR is...</p>
 
-Here are some ideas to get you started:
+  <h3>Roadmap</h3>
+  <p>2025: Launch Whitepaper and community building...</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- Lanjutkan dengan sisa isi whitepaper di sini -->
+</section>
